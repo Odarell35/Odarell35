@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lerato Mawasha 👋</h1>
+<h1 align="center">Hi, I'm Lerato Mawasha** 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -7,7 +7,6 @@
 </p>
 
 <br>
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">
 
 ## <b>`A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
@@ -39,10 +38,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Odarell35&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Odarell35&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+###  <b> `Random Dev Quote:`✍️ </b>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+
 
 
 ---
