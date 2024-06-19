@@ -31,7 +31,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 #
-![](https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306545.jpg?t=st=1718788128~exp=1718791728~hmac=1ce78a655cc3cd3d114e89c80f4f00109d2b0953984bae974eb00eac996efc3d&w=900)
+![](https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306545.jpg?t=st=1718788128~exp=1718791728~hmac=1ce78a655cc3cd3d114e89c80f4f00109d2b0953984bae974eb00eac996efc3d&w=740)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Odarell35&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
