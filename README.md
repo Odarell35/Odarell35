@@ -31,7 +31,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 #
-![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
+![](https://img.freepik.com/free-photo/beautiful-girl-with-laptop-coffee-cup-3d-rendering_1057-44874.jpg?t=st=1718785362~exp=1718788962~hmac=efcbe3e5267d7b2e327b56cb54a791887c2e3f614822d7503a3f2e7f7e75220d&w=740)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Odarell35&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
