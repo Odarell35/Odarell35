@@ -8,12 +8,13 @@
 
 <br>
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">
+## <b>`A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+- **Biological Science graduate and a full-stack software engineering Graduate at [ALX Africa](https://www.alxafrica.com/).**
+- **Currently a Full Stack Developer Intern.**
+- **I thrives in collaborative environments.**
+- **I am known for my strong analytical thinking, creative problem-solving, and excellent communication skills.**
 
-Biological Science graduate and a full-stack software engineering Graduate at [ALX Africa](https://www.alxafrica.com/). Currently a Full Stack Developer Intern.
-
-I am known for my strong analytical thinking, creative problem-solving, and excellent communication skills. I thrives in collaborative environments.
-
-## 🌐 Social links
+## <b>`Social Links`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 
 [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Odarell35)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lerato-mawasha-28b988197)
