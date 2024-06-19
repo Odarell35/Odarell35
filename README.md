@@ -8,7 +8,9 @@
 
 <br>
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">
+
 ## <b>`A Little About me...`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+
 - **Biological Science graduate and a full-stack software engineering Graduate at [ALX Africa](https://www.alxafrica.com/).**
 - **Currently a Full Stack Developer Intern.**
 - **I thrives in collaborative environments.**
