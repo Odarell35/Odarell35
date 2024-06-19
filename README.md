@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mashilo Kgaladi 👋</h1>
+<h1 align="center">Hi, I'm Lerato Mawasha 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -9,17 +9,17 @@
 <br>
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">
 
-Chemistry graduate with a passion for coding.  Currently a Cyber Security Intern and a full-stack software engineering student at [ALX Africa](https://www.alxafrica.com/). With 3+ years of experience as a QA Analyst to excel in technical roles.
+Biological Science graduate and a full-stack software engineering Graduate at [ALX Africa](https://www.alxafrica.com/). Currently a Full Stack Developer Intern.
+
+I am known for my strong analytical thinking, creative problem-solving, and excellent communication skills. I thrives in collaborative environments.
 
 ## 🌐 Social links
 
-[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/1Mashilo)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashilo-kgaladi/)
-[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:christophermashilo@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/christophermashilo@gmail.com)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/1Mashilo/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@_mashilo)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mashilo_kgaladi) 
+[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Odarell35)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lerato-mawasha-28b988197)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:leratomawasha0@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@lerato_mawwasha)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Lerato_Ranzo) 
 
 ## 🛠️ Tools & Technologies
 
@@ -37,9 +37,7 @@ Chemistry graduate with a passion for coding.  Currently a Cyber Security Intern
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=1mashilo&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=1mashilo&icon=4&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
