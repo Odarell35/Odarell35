@@ -65,9 +65,15 @@ React |
 
 <!-- end -->
 
-#
+## Projects
 
-![](https://img.freepik.com/free-photo/beautiful-girl-with-laptop-coffee-cup-3d-rendering_1057-44874.jpg?t=st=1718785362~exp=1718788962~hmac=efcbe3e5267d7b2e327b56cb54a791887c2e3f614822d7503a3f2e7f7e75220d&w=500)
+<p align="center">https://bikehub.me/</p>
+
+<a href="https://www.youtube.com/watch?v=TNgv1815Mpk" target="blank">
+<p align="center">Watch Video Website Demo</p>
+<p align="center">
+<img width="70%" src="https://github.com/nuuxcode/BikeHub/assets/24565896/82b77f18-780d-400c-9d3e-72e90bdf39a4" alt="nuuxcode" /></p>
+</a>
 
 # 📊 GitHub Stats:
 
