@@ -65,7 +65,7 @@
 
 <p align="center">https://bikehub.me/</p>
 
-<a href="https://www.youtube.com/watch?v=TNgv1815Mpk" target="blank">
+<a href="https://www.youtube.com/watch?v=nMyokKIAocM&t=25s" target="blank">
 <p align="center">Watch Video Website Demo</p>
 <p align="center">
 <img width="70%" src="https://github.com/nuuxcode/BikeHub/assets/24565896/82b77f18-780d-400c-9d3e-72e90bdf39a4" alt="nuuxcode" /></p>
