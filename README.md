@@ -67,7 +67,12 @@
 <a href="https://www.youtube.com/watch?v=nMyokKIAocM&t=25s" target="blank"> <p align="center">Watch Video Website Demo</p>
 <p align="center">
 <img width="70%" src="image.png" alt="nuuxcode" /></p>
+</a>
 
+<p align="center">https://whackmouse.netlify.app</p>
+<a href="https://www.youtube.com/watch?v=elY_orkeJu0" target="blank"> <p align="center">Watch Video Website Demo</p>
+<p align="center">
+<img width="70%" src="game.png" alt="nuuxcode" /></p>
 </a>
 
 # 📊 GitHub Stats:
