@@ -63,7 +63,6 @@
 
 ## Projects
 
-<p align="center">https://bikehub.me/</p>
 
 <a href="https://www.youtube.com/watch?v=nMyokKIAocM&t=25s" target="blank"> <p align="center">Watch Video Website Demo</p>
 <p align="center">
