@@ -80,10 +80,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Odarell35&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Odarell35&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# Contributions 
----
-<p align="center">
- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 
